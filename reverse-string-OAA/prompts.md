@@ -1,4 +1,6 @@
 
+Chat bot used GPT-5
+
 Prompt #1
 Take the role as web developer. I have a web project with a simple structure index.html and script.js on where I need to achieve the reverse string display based on any text input. So build a basic HTML code where the title is "Reverse String" then below an input text for the base text, below a blue button with the action text Reverse and include an icon for reverse, below display the result for the action and below display with the result a grey button for Copying (include a copy icon) the result. Generate the needed HTML with bootstrap and the javascript for the action separated.
 
